@@ -1,7 +1,11 @@
 # Machine Learning Engineer Nanodegree
-This project is part of Udacity Machine Learning Engineer Nanodegree
+
 # Model Evaluation and Validation
 ## Project: Predicting Boston Housing Prices
+
+This project is part of Udacity Machine Learning Engineer Nanodegree. The
+followings are project instructions and guidelines. The project report is
+provided in `boston_housing.ipynb`.
 
 ### Install
 
