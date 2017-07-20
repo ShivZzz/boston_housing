@@ -5,7 +5,7 @@
 
 This project is part of Udacity Machine Learning Engineer Nanodegree. The
 followings are project instructions and guidelines. The project report is
-provided in `boston_housing.ipynb`.
+provided in `boston_housing.ipynb` or `boston_housing.html`.
 
 ### Install
 
